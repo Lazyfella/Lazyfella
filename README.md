@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lazyfella, also called Alexander. Im from Finland and don't be afraid to say Hi! I eager to discuss and work with other people around the world!
+- 👋 Hi, I’m @Lazyfella, also called Alex. Im from Finland and don't be afraid to say Hi! I eager to discuss and work with other people around the world!
 - 👀 I’m interested in Game Development & Web Development!
 - 🌱 I’m currently learning C#, C++, Unity & Unreal Engine.
 - 📫 How to reach me ... alexander.tallgren@gmail.com
